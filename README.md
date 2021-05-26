@@ -1,4 +1,4 @@
-# Node Clustering of Gene Co-expression Networks from Single-cell RNA Sequencing Using Node2Vec
+# Node Clustering of Gene Co-expression Network from Single-cell RNA Sequencing Using Node2Vec
 
 
 #### Dataset
